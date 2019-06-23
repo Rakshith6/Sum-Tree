@@ -12,5 +12,4 @@ stochastically according to the sample priorities.
 
 ## Sum tree test script
 
-Originally created to debug the Sum tree class. Generating frequency of choosing priority samples using large number of sum values confirms the
-working of the sum tree as intended.
+Originally created to debug the Sum tree class. The last section of the script can be used to generate frequency plot for priorities by selecting  a large number of sum values in the range. The frequency plot shows that the sum tree returns priority samples in almost linearly increasing frequency with priority value.
